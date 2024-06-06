@@ -1,5 +1,5 @@
 module.exports = {
-    mongoUri: 'mongodb+srv://sangramchougaleprydan:TMvx7E8nR5cSEX2z@cluster0.5azkfof.mongodb.net/transactions',
+    mongoUri: 'add mongodb connection string',
     port: process.env.PORT || 3000
   };
   
